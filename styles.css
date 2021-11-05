@@ -108,6 +108,24 @@
     display: flex;
 }
 .backg img{
-   height: 800px;
+   height: 600px;
    width: 900px;
+}
+.farm {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    width: 100%;
+}
+.farm>h1 {
+    margin-top: 120px;
+}
+.farm h1 {
+    font-size: 50px;
+}
+.farm h2 {
+    padding-top: 60px;
+}
+.farm h3 {
+    padding-top: 50px;
 }
