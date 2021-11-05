@@ -102,3 +102,12 @@
     border: none;
     font-size: 20px;
 }
+
+/* reviews section styling  */
+.reviews {
+    display: flex;
+}
+.backg img{
+   height: 800px;
+   width: 900px;
+}
