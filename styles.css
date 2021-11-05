@@ -242,4 +242,16 @@
     background-color: transparent;
     border: 2px solid white;
 }
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-top: -19px;
+    height: 100px;
+}
+footer p {
+    padding-top: 40px;
+    font-style: italic;
+    font-size: 19px;
+}
 
