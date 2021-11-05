@@ -171,38 +171,45 @@
 .menu-intro {
     text-align: center;
 }
+.menu-2 {
+    background-color: #E5E5E5;
+}
 
 .categories {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
     grid-auto-rows: minmax(0px, auto);
-    column-gap: 0px;
     margin-left: 300px;
 }
 
 .chapati {
     display: flex;
-    border: solid black;
     width: 70%;
+    background-color: white;
+    height: 260px;
 }
 
 .beef {
     display: flex;
     width: 70%;
+    background-color: white;
 }
 
 .chicken {
     display: flex;
     width: 70%;
+    background-color: white;
 }
 
 .rice {
     display: flex;
     width: 70%;
+    background-color: white;
 }
 .categories img {
     height: 225px;
+    margin: 15px;
 }
 .price {
     padding-left: 30px;
