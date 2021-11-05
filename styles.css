@@ -85,3 +85,12 @@
     border: solid black;
     text-align: center;
 }
+.column button {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    color: white;
+    background-color: #F19201;
+    border: none;
+    font-size: 20px;
+}
