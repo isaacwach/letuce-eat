@@ -227,9 +227,15 @@ body {
     font-size: 19px;
 }
 .price button {
-    width: 80px;
+    width: 100px;
     height: 30px;
     font-size: 18px;
+    background-color: #E5E5E5;
+    border: none;
+}
+p span {
+    color: #F19201;
+    font-weight: 900;
 }
 
 /* booking section styling */
