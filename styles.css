@@ -9,7 +9,7 @@
 }
 .nav-bar .logo {
     display: flex;
-    width: 50%;
+    width: 40%;
 }
 .nav-bar .logo h2 {
     color: #F19201;
@@ -21,14 +21,23 @@
 .menu {
     display: flex;
     justify-content: space-around;
-    width: 40%;
+    width: 48%;
+}
+.menu, .moringa {
+    background-color: #72695A;
+    height: 60px;
+    opacity: 0.8;
+}
+.moringa h2 {
+    color: white;
+    background-color: #F19201;
 }
 .menu ul li {
     list-style: none;
     text-decoration: none;
     color: black;
     text-align: right;
-    padding: 30px;
+    padding: 40px;
     padding-top: 0;
 }
 .menu ul {
