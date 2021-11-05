@@ -72,8 +72,15 @@
 }
 
 /* services section  */
+.services {
+    background-color: #E5E5E5;
+}
 .services-para {
     text-align: center;
+}
+.services-para h1 {
+    color: #F19201;
+    font-size: 30px;
 }
 .column {
     display: flex;
@@ -82,8 +89,9 @@
 .one, .two, .three {
     margin: 30px;
     padding: 30px;
-    border: solid black;
+    border: none;
     text-align: center;
+    background-color: #FFFFFF;
 }
 .column button {
     width: 60px;
