@@ -173,6 +173,7 @@
 }
 .menu-2 {
     background-color: #E5E5E5;
+    height: 700px;
 }
 
 .categories {
@@ -220,3 +221,25 @@
     height: 30px;
     font-size: 18px;
 }
+
+/* booking section styling */
+.booking {
+    background-image: url("images/image8.png");
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 170px;
+    font-size: 25px;
+}
+.booking button {
+    margin-top: 40px;
+    width: 180px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+
