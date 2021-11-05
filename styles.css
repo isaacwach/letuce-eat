@@ -178,24 +178,38 @@
     gap: 10px;
     grid-auto-rows: minmax(0px, auto);
     column-gap: 0px;
+    margin-left: 300px;
 }
 
 .chapati {
     display: flex;
     border: solid black;
+    width: 70%;
 }
 
 .beef {
     display: flex;
+    width: 70%;
 }
 
 .chicken {
     display: flex;
+    width: 70%;
 }
 
 .rice {
     display: flex;
+    width: 70%;
 }
 .categories img {
     height: 225px;
+}
+.price {
+    padding-left: 30px;
+    font-size: 19px;
+}
+.price button {
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
 }
