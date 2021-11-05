@@ -61,3 +61,12 @@
     color: white;
     font-size: 60px;
 }
+.intro button {
+    width: 160px;
+    height: 45px;
+    color: white;
+    background-color: #F19201;
+    font-size: 20px;
+    border: none;
+    margin-top: 50px;
+}
