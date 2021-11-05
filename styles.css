@@ -55,8 +55,9 @@
 /* intro class */
 .intro {
     margin-top: 150px;
-    margin-left: 80px;
+    margin-left: 100px;
 }
 .intro h2 {
     color: white;
+    font-size: 60px;
 }
