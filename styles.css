@@ -1,14 +1,23 @@
 body {
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 30px;
 }
+
 .nav-bar {
+    background-color: rgba(0, 0, 0, .5);
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    /* display: flex;
     background-color: black;
     padding-top: 12px;
     padding-bottom: -12px;
-    opacity: 0.5;
+    opacity: 0.5; */
 }
 
 .nav {
@@ -22,7 +31,7 @@ body {
     display: flex;
     width: 40%;
     margin-left: 60px;
-    margin-top: 25px;
+    margin-top: 0px;
 }
 
 .nav-bar .logo h2 {
@@ -40,6 +49,7 @@ body {
     width: 48%;
 }
 
+
 /* .menu,.moringa {
     background-color: #72695A;
     height: 60px;
@@ -49,6 +59,7 @@ body {
 .moringa h2 {
     color: white;
     background-color: #F19201;
+    margin-top: -20px;
 }
 
 .menu ul li {
@@ -73,7 +84,9 @@ body {
     color: white;
 }
 
+
 /* intro class */
+
 .intro {
     margin-top: 150px;
     margin-left: 100px;
@@ -94,7 +107,9 @@ body {
     margin-top: 50px;
 }
 
+
 /* services section  */
+
 .services {
     background-color: #E5E5E5;
     margin-top: -25px;
@@ -109,6 +124,7 @@ body {
     color: #F19201;
     font-size: 30px;
 }
+
 .services-para p {
     font-size: 18px;
 }
@@ -138,7 +154,9 @@ body {
     font-size: 20px;
 }
 
+
 /* reviews section styling  */
+
 .reviews {
     display: flex;
 }
@@ -182,15 +200,19 @@ body {
     margin-top: 20px;
 }
 
+
 /* menu section styling */
+
 .menu-intro {
     text-align: center;
     padding-top: 30px;
     font-size: 17px;
 }
+
 .menu-intro h1 {
     color: #F19201;
 }
+
 .menu-2 {
     background-color: #E5E5E5;
     height: 770px;
@@ -229,14 +251,17 @@ body {
     width: 80%;
     background-color: white;
 }
+
 .categories img {
     height: 225px;
     margin: 15px;
 }
+
 .price {
     padding-left: 30px;
     font-size: 19px;
 }
+
 .price button {
     width: 100px;
     height: 30px;
@@ -244,12 +269,15 @@ body {
     background-color: #E5E5E5;
     border: none;
 }
+
 p span {
     color: #F19201;
     font-weight: 900;
 }
 
+
 /* booking section styling */
+
 .booking {
     background-image: url("images/image8.png");
     height: 400px;
@@ -260,6 +288,7 @@ p span {
     padding-top: 170px;
     font-size: 25px;
 }
+
 .booking button {
     margin-top: 40px;
     width: 180px;
@@ -269,6 +298,7 @@ p span {
     background-color: transparent;
     border: 2px solid white;
 }
+
 footer {
     text-align: center;
     color: white;
@@ -276,9 +306,9 @@ footer {
     margin-top: -19px;
     height: 100px;
 }
+
 footer p {
     padding-top: 40px;
     font-style: italic;
     font-size: 19px;
 }
-
