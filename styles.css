@@ -2,7 +2,7 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 30px;
-    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
 }
 
 .nav-bar {
@@ -14,11 +14,6 @@ body {
     padding-right: 70px;
     padding-top: 12px;
     padding-bottom: 12px;
-    /* display: flex;
-    background-color: black;
-    padding-top: 12px;
-    padding-bottom: -12px;
-    opacity: 0.5; */
 }
 
 .nav {
