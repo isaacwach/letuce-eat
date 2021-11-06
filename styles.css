@@ -5,6 +5,10 @@ body {
 }
 .nav-bar {
     display: flex;
+    background-color: black;
+    padding-top: 12px;
+    padding-bottom: -12px;
+    opacity: 0.5;
 }
 
 .nav {
@@ -36,11 +40,11 @@ body {
     width: 48%;
 }
 
-.menu,.moringa {
+/* .menu,.moringa {
     background-color: #72695A;
     height: 60px;
     opacity: 0.8;
-}
+} */
 
 .moringa h2 {
     color: white;
